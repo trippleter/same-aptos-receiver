@@ -34,7 +34,5 @@ Debank shows the creation date of 372 days ago (as of May 27) on all wallets. Al
 <img width="991" alt="Screenshot 2024-05-27 at 3 53 55 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/60bec82b-08fd-4258-9e6c-09d7076c4506">
 <img width="1001" alt="Screenshot 2024-05-27 at 3 54 07 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/c1c09208-b360-49a1-b5b4-e008275cd857">
 <img width="992" alt="Screenshot 2024-05-27 at 3 54 14 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/8860cb32-496f-4c49-93e8-fde475a4553d">
-ps://github.com/trippleter/same-aptos-receiver/assets/169191457/90a255c4-b6fb-4475-b043-29e948805799">
-
 
 Given all of the above and the clustering by same Aptos wallet receiver method, we are 100% sure this indeed is a sybil cluster of 68 wallets.
