@@ -7,3 +7,5 @@ Secondary proof - we checked the timestamps of Aptos bridging transactions, if t
 Third proof - using software and hands we looked at the similarity of the wallets in the cluster, which could easily strengthen the first 2 statements
 
 Clusters_analysis contains an indepth analysis of all of the clusters of this report
+
+Reward Address: 0x4D045AC57CE2B85438740CDFfCa65b60fdae7128
