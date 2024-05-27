@@ -8,4 +8,6 @@ Third proof - using software and hands we looked at the similarity of the wallet
 
 Clusters_analysis contains an indepth analysis of all of the clusters of this report
 
+Code directory contains most of the code used during the analysis and clustering
+
 Reward Address: 0x4D045AC57CE2B85438740CDFfCa65b60fdae7128
