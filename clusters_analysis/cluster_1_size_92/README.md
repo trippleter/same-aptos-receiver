@@ -11,7 +11,7 @@ This is only 2.5 hour difference, which makes it absolutely obvious that the clu
 <img width="970" alt="Screenshot 2024-05-27 at 12 16 47 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/6ea50f22-3790-4ab4-b2c1-303c8318fce1">
 <img width="988" alt="Screenshot 2024-05-27 at 12 18 13 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/dc19f876-112d-4368-9166-4ec40fce9bab">
 
- Our custom similarity software pointed out that all wallets in this cluster (92/92) called such functions as:
+ Our custom similarity software pointed out that all wallets in this cluster (92/92) on Arbitrum called such functions as:
  
 - 0x5ae401dc, on date: 2022-10-25, called Uniswap V3: Router 2
 - 0x095ea7b3, on date: 2022-10-25, called USD Coin (Arb1) (USDC)
