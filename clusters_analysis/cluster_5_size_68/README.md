@@ -1,5 +1,3 @@
-r
-
 As you can see from the cluster_5_size_68_aptos_bridge_data.csv file, all the Aptos transactions occured on Optimism network:
 
 Again we see the pattern of 12 wallets calling on 06-29 and the rest on 07-03
