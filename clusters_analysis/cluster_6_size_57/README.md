@@ -13,4 +13,4 @@ However, there is an even more obvious point that tells us that the accounts are
 
 <img width="785" alt="Screenshot 2024-05-27 at 6 23 15 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/dcd1e937-da12-4e85-b648-0f1b0cb369dc">
 
-Given the direct link of this cluster and the clustering by same Aptos wallet receiver method, we are 100% sure this indeed is a sybil cluster of 68 wallets.
+Given the direct link of this cluster and the clustering by same Aptos wallet receiver method, we are 100% sure this indeed is a sybil cluster of 57 wallets.
