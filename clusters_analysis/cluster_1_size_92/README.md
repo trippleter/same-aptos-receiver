@@ -12,6 +12,7 @@ This is only 2.5 hour difference, which makes it absolutely obvious that the clu
 <img width="988" alt="Screenshot 2024-05-27 at 12 18 13 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/dc19f876-112d-4368-9166-4ec40fce9bab">
 
  Our custom similarity software pointed out that all wallets in this cluster (92/92) called such functions as:
+ 
 - 0x5ae401dc, on date: 2022-10-25, called Uniswap V3: Router 2
 - 0x095ea7b3, on date: 2022-10-25, called USD Coin (Arb1) (USDC)
 - 0x9fbf10fc, on date: 2022-10-25, called Stargate: Router
@@ -20,4 +21,5 @@ This is only 2.5 hour difference, which makes it absolutely obvious that the clu
 (All transaction data is in cluster_1_onchain_data.csv)
 
 Manual Analysis:
+
 Also, by looking at the dates of each transaction on Arbitrum network (different days and months, but always same date on each wallet), similar transaction amounts (0.03 ETH received on 2023/05/17-2023/05/18), use of Huobi in every wallet, 0 organic transactions (only airdrop farming/claiming), and same creation date shown by Debank (590 days as of May 27), and putting the clustering by same Aptos wallet receiver method, we are 100% sure this indeed is a sybil cluster of 92 wallets.
