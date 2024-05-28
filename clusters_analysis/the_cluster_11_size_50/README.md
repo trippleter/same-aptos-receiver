@@ -16,11 +16,7 @@ As you can see, all clusters on the Ethereum network do the same thing:
 
 
      1. All wallets in the cluster deposit ETH using Blast Bridge.
-
-     
      2. Then do the same actions with the Eigen Layer tool + get Zaphrodite (Gold)
-
-     
      3. Send swETH
 
 Ultimately, all clusters perform the same actions at approximately the same time (about 1 day difference).
