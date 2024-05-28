@@ -1,7 +1,7 @@
 As you can see from the cluster_14_size_45_aptos_bridge_data.csv file, all of the Aptos transactions occurred on Polygon network:
 
 Start: 2023-12-16 09:35:18.000 (https://polygonscan.com/tx/0x2961c6854d35695cdea2738190daa7e5372e3653f51949a5448533b58f35f108)
-/n
+\n
 Finish: 2023-12-19 12:18:17.000 (https://polygonscan.com/tx/0x4c3c5058beee5616084cfaed53e40826378cd5c2578aba1707876a97e2541722)
 
 All the Aptos transactions occurred within: 3 days, 2 hours, 42 minutes
