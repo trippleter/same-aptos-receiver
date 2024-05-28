@@ -6,10 +6,18 @@ Finish: 2023-12-19 12:18:17.000 (https://polygonscan.com/tx/0x4c3c5058beee561608
 
 All the Aptos transactions occurred within: 3 days, 2 hours, 42 minutes
 
+Here is an example of three cluster wallets that perform the same actions:
+
 <img width="991" alt="Screenshot 2024-05-28 at 10 52 25" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/019eba7f-0065-4424-947f-116bf9ad1cbc">
 <img width="981" alt="Screenshot 2024-05-28 at 10 52 39" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/50cbc4c3-8267-4c65-9ca1-b6ee42355611">
 <img width="984" alt="Screenshot 2024-05-28 at 10 52 56" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/c14b9edc-5f2c-4ac8-bd86-c8f9ced2fbd2">
 
+As you can see, all clusters on the Ethereum network do the same thing:
+     1. All wallets in the cluster deposit ETH using Blast Bridge.
+     2. Then do the same actions with the Eigen Layer tool + get Zaphrodite (Gold)
+     3. Send swETH
+
+Ultimately, all clusters perform the same actions at approximately the same time (about 1 day difference).
 
 Our custom similarity software pointed out that all wallets in this cluster (50/50) on Eth called such functions as:
 
@@ -34,3 +42,4 @@ And on Arbitrum:
 - 0xd0e30db0, on date: 2024-02-24, called Wrapped Ether (WETH)
 - 0x415565b0, on date: 2024-05-18, called 0x: Exchange Proxy
 (These transaction data is in cluster_11_onchain_data.csv file)
+
