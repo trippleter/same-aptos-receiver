@@ -6,7 +6,7 @@ Finish: 2023-12-19 12:18:17.000 (https://polygonscan.com/tx/0x4c3c5058beee561608
 
 All the Aptos transactions occurred within: 3 days, 2 hours, 42 minutes
 
-Here is an example of three cluster wallets that perform the same actions:
+Here is an example of same actions:
 
 <img width="991" alt="Screenshot 2024-05-28 at 10 52 25" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/019eba7f-0065-4424-947f-116bf9ad1cbc">
 <img width="981" alt="Screenshot 2024-05-28 at 10 52 39" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/50cbc4c3-8267-4c65-9ca1-b6ee42355611">
