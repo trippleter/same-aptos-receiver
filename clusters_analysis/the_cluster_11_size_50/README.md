@@ -13,8 +13,14 @@ Here is an example of same actions:
 <img width="984" alt="Screenshot 2024-05-28 at 10 52 56" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/c14b9edc-5f2c-4ac8-bd86-c8f9ced2fbd2">
 
 As you can see, all clusters on the Ethereum network do the same thing:
+
+
      1. All wallets in the cluster deposit ETH using Blast Bridge.
+
+     
      2. Then do the same actions with the Eigen Layer tool + get Zaphrodite (Gold)
+
+     
      3. Send swETH
 
 Ultimately, all clusters perform the same actions at approximately the same time (about 1 day difference).
