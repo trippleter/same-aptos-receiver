@@ -22,3 +22,6 @@ And on Arbitrum:
 - 0x51905636, on date: 2023-07-24, called Merkly: Merkly ONFT (MERK)
 - 0x2e15238c, on date: 2023-07-26, called Stargate: Bridge
 (These transaction data is in cluster_45_onchain_data.csv file)
+
+
+These similarities, and identical Aptos receiver address are the main reasons why we beleive this cluster is controlled by 1 person
