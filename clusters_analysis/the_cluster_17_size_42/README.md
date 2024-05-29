@@ -13,6 +13,7 @@ All the Aptos transactions occurred within: 1 day, 0 hours, 24 minutes
 Inorganic and identical on all wallets deposit-withdraw with around 1.5 BNB and 250 STG transactions. 
 
 Arbitrum:
+
 <img width="818" alt="Screenshot 2024-05-28 at 11 24 06 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/dc15d659-f670-4b23-b42e-3e0dda579b51">
 <img width="873" alt="Screenshot 2024-05-28 at 11 24 18 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/4bf6a59e-cdcd-4588-9a67-ca9da434abfa">
 <img width="807" alt="Screenshot 2024-05-28 at 11 24 27 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/d0bc479e-2a2c-4763-86e3-260163b151c7">
