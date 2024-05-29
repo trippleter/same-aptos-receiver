@@ -12,7 +12,7 @@ Third proof - using software and hands we looked at the similarity of the wallet
 
 **Clusters_analysis** directory contains an indepth analysis of all of the clusters of this report
 
-**Automated_analysis** directory contains some more clusters that we weren't able to review manually on time, but we still wanted to include them, so we wrote a software to show some similairties and their united Aptos receiver.
+**Automated_analysis** directory contains some more clusters that we weren't able to review manually on time, but we still wanted to include them, so we wrote a software to show some similairties and their united Aptos receiver
 
 **Code** directory contains most of the code used during the analysis and clustering
 
