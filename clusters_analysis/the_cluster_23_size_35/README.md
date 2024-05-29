@@ -20,13 +20,16 @@ And on Arbitrum:
 (These transaction data is in cluster_23_onchain_data.csv file)
 
 
-Scroll chain behaviour:
+Scroll chain behaviour is similar:
+
 <img width="805" alt="Screenshot 2024-05-29 at 12 38 07 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/345f114f-1e8d-4519-afbb-09b1c45e31d3">
 <img width="830" alt="Screenshot 2024-05-29 at 12 38 13 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/94eae13a-c4b1-40af-a43e-80cf59482698">
 <img width="808" alt="Screenshot 2024-05-29 at 12 38 21 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/c2f80099-f73e-422b-a94f-778abef48507">
 <img width="821" alt="Screenshot 2024-05-29 at 12 38 27 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/6d5513db-2699-434f-a775-49f38695a5c6">
 
-Base alike:
+Base also looks alike:
 
 <img width="812" alt="Screenshot 2024-05-29 at 12 39 39 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/0539b300-a4f9-43cc-95d7-2834b7ac9eaa">
 <img width="722" alt="Screenshot 2024-05-29 at 12 39 53 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/287c2274-ac53-4d3c-b93b-e9434a1e71cc">
+
+Thus, given all these proofs there is enough evidence to confirm this cluster is sybil
