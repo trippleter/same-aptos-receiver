@@ -22,6 +22,7 @@ An obvious spam of Core Dao transactions on BNB Chain reveals this cluster is co
 <img width="768" alt="Screenshot 2024-05-29 at 4 11 36 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/c6249880-d449-4ef0-a032-da60a5da88bd">
 
 Also, alike activity in Avalanche:
+
 <img width="744" alt="Screenshot 2024-05-29 at 4 06 49 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/6f417fa7-6916-4228-bea5-118021079810">
 <img width="728" alt="Screenshot 2024-05-29 at 4 07 02 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/bf1919d1-b9ec-4589-bd19-849172bf4bcd">
 <img width="711" alt="Screenshot 2024-05-29 at 4 07 14 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/6b0f16af-cc70-45e7-81a3-33fb089503bb">
