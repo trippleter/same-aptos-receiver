@@ -1,8 +1,8 @@
 As you can see from the cluster_41_size_20_aptos_bridge_data.csv file, all of the Aptos transactions occurred on Arbitrum network (and first one on Optimism):
 
-Start: 2023-07-06 19:42:05.000 (https://optimistic.etherscan.io/tx/0xf74580cf8e8f10da3ac60cb78709dbf1156b1088cc5c80bb9abf8e2eed3f6f85)
+Start: 2023-07-06 19:42:05 (https://optimistic.etherscan.io/tx/0xf74580cf8e8f10da3ac60cb78709dbf1156b1088cc5c80bb9abf8e2eed3f6f85)
 
-Finish: 2023-07-06 22:55:21.000 (https://arbiscan.io/tx/0x8c55bd7e1384892d8de83809aed192cbfdf113874bd0eac78e8c9e916e0bb240)
+Finish: 2023-07-06 22:55:21 (https://arbiscan.io/tx/0x8c55bd7e1384892d8de83809aed192cbfdf113874bd0eac78e8c9e916e0bb240)
 
 All the Aptos transactions occurred within: 3 hours, 13 minutes
 
