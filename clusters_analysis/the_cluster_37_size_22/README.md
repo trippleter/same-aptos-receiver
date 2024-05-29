@@ -1,4 +1,4 @@
-412-414 creation dates shown on Debank (as of May 29)
+Looking at the creation date on Debank, we see: 412-414 (as of May 29) on most of the wallets
 
 Also, we see clear inorganic and similar activity on Optimism:
 <img width="809" alt="Screenshot 2024-05-29 at 4 16 11 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/79b86558-1078-4bf7-844c-02952686edba">
