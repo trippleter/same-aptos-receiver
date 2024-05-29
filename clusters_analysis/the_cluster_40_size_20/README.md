@@ -14,4 +14,4 @@ This is the screenshot from its Debank page, the thing is that he didn't initiat
 <img width="748" alt="Screenshot 2024-05-29 at 5 14 26 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/3e1b5b8e-526a-44ab-a7ac-20cb393adedc">
 an example of such a transaction, where we see a wallet in our cluster and a referer being 0x7649
 
-In fact there are more than 20 wallets in his cluster, however, in order to keep this report based on only 1 method let's not include them.
+In fact there are more than 20 wallets in his cluster, however, in order to keep this report based on only 1 method (identical aptos receiver) let's not include them.
