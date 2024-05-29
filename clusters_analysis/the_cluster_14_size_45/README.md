@@ -9,9 +9,7 @@ All the Aptos transactions occurred within: 3 days, 2 hours, 42 minutes
 First thing we noticed about this cluster are the 'pretty' addresses (shoutout to ruslan) : 
 
 0x111_59d9e1868f443326a3b94c9d2ca4a6a06c3cc
-
 0x222_6eb87319555b550106d2ef40d2d9be9ee0c92
-
 0x555_caf8a9615d5ac34a2aa5c78c669bc0ba9e889
 
 0x777_d81dc189682d8cd532a5f31a7f87af644c47a
