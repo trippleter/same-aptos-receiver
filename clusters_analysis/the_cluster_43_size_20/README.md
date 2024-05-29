@@ -25,3 +25,5 @@ Also, we see identical creation date on Debank - 408 days (as of May 29). Arbitr
 <img width="724" alt="Screenshot 2024-05-29 at 5 40 05 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/254eda03-b10e-40a5-a060-92467cf806a5">
 <img width="770" alt="Screenshot 2024-05-29 at 5 40 11 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/25c7887c-bc96-4729-bc0c-d7a0893be690">
 <img width="745" alt="Screenshot 2024-05-29 at 5 40 24 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/056bc28c-6d2f-4f6b-aa5f-a60fae8f1355">
+
+All of the above along with exact same Aptos receiver proves that this is a sybil cluster
