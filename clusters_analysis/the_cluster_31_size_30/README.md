@@ -7,6 +7,7 @@ Finish: 2023-04-10 07:10:49.000 (https://arbiscan.io/tx/0xc99a33b3dab4fe17fbf96e
 All the Aptos transactions occurred within: 3 days, 0 hours, 23 minutes
 
 Optimsim network shows the same time of ETH received and bridged through Stargate:
+
 <img width="728" alt="Screenshot 2024-05-29 at 1 55 31 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/94af4d57-607c-4295-a476-1fa1d776c548">
 <img width="983" alt="Screenshot 2024-05-29 at 1 55 43 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/a6df8c39-4695-4163-9b7c-577288ab2a51">
 <img width="986" alt="Screenshot 2024-05-29 at 1 55 49 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/75ad6a7e-c56d-4143-af3a-f2f46bb5f914">
@@ -14,6 +15,7 @@ Optimsim network shows the same time of ETH received and bridged through Stargat
 
 
 On Ethereum transactions also look alike, use of slingshot, stargate (with 5-10$ in ETH) and under 1 STG lock shows that these wallets are the same:
+
 <img width="675" alt="Screenshot 2024-05-29 at 1 57 10 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/a4877f93-de09-4066-a7b9-28c04b7ff31c">
 <img width="665" alt="Screenshot 2024-05-29 at 1 57 19 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/290fa2f0-eace-4cc4-863f-ce1719ea8098">
 <img width="692" alt="Screenshot 2024-05-29 at 1 57 28 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/bbbe2477-6680-4dc6-bc77-5f64f87dc61f">
