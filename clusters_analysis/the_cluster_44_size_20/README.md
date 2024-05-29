@@ -6,7 +6,7 @@ Finish: 2023-04-27 13:59:15.000 (https://arbiscan.io/tx/0x03ec018e522166b03efa60
 
 All the Aptos transactions occurred within: 0 hours, 27 minutes
 
-Our custom similarity software pointed out that EVERY wallet in this cluster (20/20) with the SAME DATE on optimism called such functions as:
+Our custom similarity software pointed out that EVERY wallet in this cluster (20/20) with the SAME DATE on Optimism called such functions as:
 
 - 0x1114cd2a, on date: 2024-03-10, called 0xb49c4e680174e331cb0a7ff3ab58afc9738d5f8b
 
@@ -20,3 +20,5 @@ And on Arbitrum:
 - 0xae30f6ee, on date: 2023-04-27, called 0x0a9f824c05a74f577a536a8a0c673183a872dff4
 - 0x00000184, on date: 2024-01-20, called Socket: Socket Gateway
 (These transaction data is in cluster_44_onchain_data.csv file)
+
+This high number of intersections in dates, transactions and 30 minute period in Aptos messages proves that this cluster is controlled by 1 person
