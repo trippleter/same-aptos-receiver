@@ -1,5 +1,5 @@
 
-Zksync transactions look really similar with the same dates (02/15, 02/24, 03/07)"
+Zksync transactions look really similar with the same dates (02/15, 02/24, 03/07):
 <img width="758" alt="Screenshot 2024-05-29 at 12 50 28 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/a020f849-788c-4cf1-be1a-d0fbbbd86787">
 <img width="704" alt="Screenshot 2024-05-29 at 12 50 35 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/f0c758dc-3ada-41b5-97d1-8d85ec1935a0">
 <img width="676" alt="Screenshot 2024-05-29 at 12 50 45 PM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/42414bb5-8b95-4b5c-8a05-b9de5919a036">
