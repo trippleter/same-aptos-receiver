@@ -20,4 +20,6 @@ This repository is an add-on to our report about clustering wallets based on the
 SENDER_WALLET,APTOS_WALLET,TX_HASH,NETWORK,SOURCE_TIMESTAMP_UTC,CLUSTER_NUMBER,CLUSTER_SIZE 
 and every cluster separated by ,,,,,, line
 
+Report link: https://commonwealth.im/layerzero/discussion/22611-smart-evm-report-using-aptos-receiving-wallets-18k-sybils
+
 Reward Address: 0x4D045AC57CE2B85438740CDFfCa65b60fdae7128
