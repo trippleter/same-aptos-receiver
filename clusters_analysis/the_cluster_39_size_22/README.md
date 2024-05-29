@@ -16,6 +16,7 @@ Also, if we take a look only at the other than the 2 main wallets, we see absolu
 <img width="743" alt="Screenshot 2024-05-29 at 4 46 15 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/78430b83-f320-4f4c-ba5b-2acc754d512c">
 
 Ethereum:
+
 <img width="788" alt="Screenshot 2024-05-29 at 4 51 07 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/bc09d158-3a1d-43d1-b5fd-96379ddcbdd0">
 <img width="730" alt="Screenshot 2024-05-29 at 4 51 30 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/1c0a4dbd-dbe6-4650-be63-623737c41083">
 <img width="750" alt="Screenshot 2024-05-29 at 4 51 48 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/ab2b06b3-d191-4f69-8375-2764cea7a722">
