@@ -15,13 +15,13 @@ Here is an example of same actions:
 As you can see, all clusters on the Ethereum network do the same thing:
 
 
-     1. All wallets in the cluster deposit ETH using Blast Bridge.
-     2. Then do the same actions with the Eigen Layer tool + get Zaphrodite (Gold)
-     3. Send swETH
+     1. All wallets in the cluster deposit ETH using Blast Bridge (with under 1$ value in ETH)
+     2. Then do the same actions with the Eigen Layer protocol + mint Zaphrodite NFT
+     3. Send swETH (05/26 on most wallets)
 
 Ultimately, all clusters perform the same actions at approximately the same time (about 1 day difference).
 
-Our custom similarity software pointed out that all wallets in this cluster (50/50) on Eth called such functions as:
+Also, our custom similarity software pointed out that all wallets in this cluster (50/50) on Eth called such functions as:
 
 - 0x095ea7b3, on date: 2023-12-31, called swETH (swETH)
 - 0xe7a050aa, on date: 2023-12-31, called 0x858646372cc42e1a627fce94aa7a7033e7cf075a
