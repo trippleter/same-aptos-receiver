@@ -17,9 +17,11 @@ And on Optimism:
 
 
 
-Optimism transactions are 1:1 in every wallet, and the dates look the same (01/19/24 - 20-30$ ETH deposit, 04/07/24 - 700-800$ deposit from Binance on all wallets)
+Optimism transactions are 1:1 in every wallet, and the dates look the same (01/19/24 - 20-30$ ETH deposit, 04/07/24 - 700-800$ deposit from Binance on all wallets):
+
 <img width="717" alt="Screenshot 2024-05-29 at 5 34 41 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/7722c6ab-59cb-4cb4-a852-11e1cb1682b0">
 <img width="730" alt="Screenshot 2024-05-29 at 5 34 49 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/e4e5a9a9-e18c-45f2-9a3b-a9c2fa8dcd77">
 <img width="745" alt="Screenshot 2024-05-29 at 5 34 54 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/42cddece-ebdb-484e-a869-d69a1dfcb225">
 <img width="700" alt="Screenshot 2024-05-29 at 5 34 59 AM" src="https://github.com/trippleter/same-aptos-receiver/assets/169191457/d2eb18f9-3cf0-42bd-bab8-a668b5299d2a">
 
+Thus, by looking at the evidence above it is obvious - this is a sybil cluster and it is controlled by 1 entity
