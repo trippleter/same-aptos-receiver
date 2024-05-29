@@ -1,6 +1,7 @@
 As you can see from the cluster_29_size_32_aptos_bridge_data.csv file, all of the Aptos transactions occurred on Arbitrum network:
 
 All the Aptos transactions occurred within: 2 days, 4 hours, 50 minutes ( transactions were made in 2 reps: 2023-04-25 16:13:55.000 - 16:47:46.000 and 2023-04-27 20:40:45.000 - 21:04:26.000) 
+
 This is only 30 minute difference in both of them, so it is obvious, this is a sybil cluster, also:
 
 
